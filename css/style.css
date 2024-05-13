@@ -1,0 +1,9 @@
+.grid-container{
+    display: flex;
+    gap: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.card-body{
+    align-content: end;
+}
